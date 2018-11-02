@@ -1,0 +1,74 @@
+/* Aleazar */
+
+#ala {
+    background: #D6D3D1;
+    font-family: 'Roboto', sans-serif;  
+}
+
+
+#ala #container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+h1 {
+   font-size: 30px; 
+   color: #FF9886;
+   text-align: center;
+}
+
+p {
+  text-align: center;  
+}
+
+h2{
+    font-size: 20px;
+}
+
+
+hr {
+   color: #FF9886; 
+}
+
+img#ala-photo {
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+
+
+
+
+
+/* Apu */
+
+#apu {
+    background: #FEBB6E;
+    font-family: 'Roboto', sans-serif;  
+}
+
+
+#apu #container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+h1 {
+   font-size: 30px; 
+   color: #361906;
+}
+
+h2{
+    font-size: 20px;
+}
+
+
+hr {
+   color: #361906; 
+}
+
+img {
+    margin-left: 200px;
+}
